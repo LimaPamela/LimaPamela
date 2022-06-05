@@ -1,5 +1,6 @@
-                         Hello Earth 👋 I’m Pamela Lima
-                      A developer under construction 💻 👷‍♀️
+Hello Earth 👋 I’m Pamela Lima
+
+A developer under construction 💻 👷‍♀️
 
 > 📍 São Paulo, 🇧🇷. 
 - 🧑‍🎓 Biomedical Sciences.
